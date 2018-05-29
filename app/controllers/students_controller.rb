@@ -11,8 +11,8 @@ class StudentsController < ApplicationController
 
   private
 
-  def activate 
-  end 
+  def activate
+  end
   
 
     def set_student
